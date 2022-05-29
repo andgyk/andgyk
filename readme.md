@@ -2,7 +2,7 @@
 <p>I'm Andgyk, and currently lost in the world. Tell me things that can't be true.</p>
 
 <!-- Anchors -->
-<a href="https://discord.gg/6ZNfehbCKF" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.gg/rX2mKpMvJY" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.patreon.com/andgyk" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
 <a href="https://instagram.com/an4gyk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
